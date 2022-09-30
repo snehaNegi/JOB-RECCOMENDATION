@@ -3,5 +3,5 @@ an app that will match your resume to several type of jobs in the market and wil
 
 ## For any input resume the output will be in following plot
 
-![alt text](https://github.com/snehaNegi/Real-Time-Chat-App/blob/main/chatBox.png)
+![alt text](https://github.com/snehaNegi/JOB-RECCOMENDATION/blob/main/chart.png)
 ˇ
